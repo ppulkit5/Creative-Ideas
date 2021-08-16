@@ -4,6 +4,9 @@
        -> Image 
     ->Delete 
     -> Retweeting
+    ->Read only serializer 
+    -> Create only serializer 
+    -> Liking or Unliking
 
 2. Users 
     -> Register
@@ -18,12 +21,16 @@
         -> User + who they follow?
 
 3. Following / Followers
+
+
+
     in tweetme2 folder(Dev\tweetme2 here) 
     pipenv shell
     python manage.py runserver
  to run django- python manage.py runserver
+ to run react- npm start (in tweetme2-web)
     
-    from lecture-106
 
 
-    in tweetme2/tweetme2/settings.py line 29 can add my domain there!!!
+
+    in tweetme2/tweetme2/settings.py line 29 can add your domain there!!!
