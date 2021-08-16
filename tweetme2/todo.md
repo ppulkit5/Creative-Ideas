@@ -23,7 +23,7 @@
     python manage.py runserver
  to run django- python manage.py runserver
     
-    from lecture-92
+    from lecture-101
 
 
     in tweetme2/tweetme2/settings.py line 29 can add my domain there!!!
